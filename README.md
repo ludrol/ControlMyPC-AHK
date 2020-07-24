@@ -1,6 +1,8 @@
 # ControlMyPC-AHK
 AHK script for twich channel ControlMyPC
 
+You need AutoHotkey installed on your windows machine to run
+
 ControlMyPC AutoHotKey script by ludrol v0.1
 
 	How to use:
